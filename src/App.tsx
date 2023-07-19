@@ -4,7 +4,8 @@ import {
   useNavigationType,
   useLocation,
 } from "react-router-dom";
-import Desktop from "./pages/Desktop";
+import DesktopChatApp from "./pages/DesktopChatApp";
+import LoginPageChatApp from "./pages/LoginPageChatApp";
 import { useEffect } from "react";
 
 function App() {
@@ -27,6 +28,10 @@ function App() {
         title = "";
         metaDescription = "";
         break;
+      case "/loginpagechatapp":
+        title = "";
+        metaDescription = "";
+        break;
     }
 
     if (title) {
@@ -45,7 +50,8 @@ function App() {
 
   return (
     <Routes>
-      <Route path="/" element={<Desktop />} />
+      <Route path="/" element={<DesktopChatApp />} />
+      <Route path="/loginpagechatapp" element={<LoginPageChatApp />} />
     </Routes>
   );
 }

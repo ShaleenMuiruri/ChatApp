@@ -1,0 +1,325 @@
+.ellipse-div {
+  position: absolute;
+  top: 0;
+  left: 27px;
+  border-radius: 50%;
+  background-color: rgba(225, 238, 244, 0.5);
+  filter: blur(55px);
+  width: 309px;
+  height: 261px;
+}
+.sign-in-to {
+  margin: 0;
+}
+.sign-in-to-container {
+  position: relative;
+  font-weight: 600;
+}
+.register-here {
+  color: #788df3;
+}
+.if-you-dont-container {
+  position: relative;
+  font-size: 22.3px;
+  font-weight: 600;
+}
+.sign-in-to-chat-parent {
+  position: absolute;
+  top: 40px;
+  left: 0;
+  width: 323px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 82px;
+}
+.ellipse-parent {
+  position: relative;
+  width: 390px;
+  height: 328px;
+}
+.frame-parent17 {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 88px;
+}
+.vector-icon2 {
+  position: relative;
+  width: 7.21px;
+  height: 4.6px;
+}
+.english-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-9xs);
+  color: var(--color-black);
+}
+.sign-in {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 600;
+}
+.group-child {
+  position: absolute;
+  top: 30px;
+  left: 15px;
+  background-color: var(--color-mediumslateblue);
+  width: 28px;
+  height: 5px;
+}
+.sign-in-parent {
+  position: relative;
+  width: 57px;
+  height: 35px;
+}
+.group-item {
+  position: absolute;
+  top: 0.43px;
+  left: 0;
+  border-radius: var(--br-xs);
+  background-color: var(--color-white);
+  width: 112px;
+  height: 26px;
+}
+.register {
+  position: absolute;
+  top: 0;
+  left: 22px;
+  font-weight: 600;
+  display: inline-block;
+  width: 69px;
+  height: 14.24px;
+}
+.rectangle-parent {
+  position: relative;
+  width: 112px;
+  height: 26.43px;
+}
+.frame-parent19 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  padding: 0 19px;
+  align-items: flex-start;
+  justify-content: flex-end;
+  gap: 47px;
+}
+.rectangle-input {
+  border: 0;
+  background-color: var(--color-aliceblue-100);
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  border-radius: var(--br-xs);
+}
+.rectangle-container {
+  align-self: stretch;
+  height: 60px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-child12 {
+  border: 0;
+  background-color: var(--color-aliceblue-100);
+  align-self: stretch;
+  position: relative;
+  border-radius: var(--br-xs);
+  height: 60px;
+}
+.rectangle-frame {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.recover-password {
+  position: relative;
+  font-weight: 500;
+}
+.frame-parent21,
+.sign-in-wrapper {
+  align-self: stretch;
+  display: flex;
+  justify-content: flex-start;
+}
+.frame-parent21 {
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 21px;
+}
+.sign-in-wrapper {
+  border-radius: var(--br-xs);
+  background-color: var(--color-mediumslateblue);
+  overflow: hidden;
+  flex-direction: row;
+  padding: 20px 143px;
+  align-items: flex-start;
+  text-align: center;
+  font-size: var(--font-size-lgi);
+  color: var(--color-white);
+}
+.frame-child13 {
+  flex: 1;
+  max-width: 100%;
+  overflow: hidden;
+  height: 1px;
+}
+.frame-child13,
+.or-continue-with {
+  position: relative;
+}
+.vector-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-4xl);
+}
+.frame-child15 {
+  position: relative;
+  border-radius: var(--br-xs);
+  border: 1px solid var(--color-silver);
+  box-sizing: border-box;
+  width: 118px;
+  height: 60px;
+  z-index: 0;
+}
+.logosgoogle-icon {
+  position: absolute;
+  margin: 0 !important;
+  top: 18px;
+  left: 45px;
+  width: 24px;
+  height: 24.56px;
+  overflow: hidden;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.rectangle-group {
+  width: 111.4px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: relative;
+  gap: var(--gap-3xs);
+}
+.frame-child16 {
+  position: relative;
+  border-radius: var(--br-xs);
+  background-color: var(--color-white);
+  box-shadow: 0 0 4px rgba(0, 0, 0, 0.25);
+  width: 118px;
+  height: 60px;
+  z-index: 0;
+}
+.vector-icon3,
+.vector-icon4 {
+  position: absolute;
+  margin: 0 !important;
+  height: 41.26%;
+  width: 17.67%;
+  top: 30%;
+  right: 40.8%;
+  bottom: 28.74%;
+  left: 41.53%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  z-index: 1;
+}
+.vector-icon4 {
+  height: 41.48%;
+  width: 11.86%;
+  right: 44.07%;
+  bottom: 28.52%;
+  left: 44.07%;
+}
+.frame-parent22 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-4xl);
+}
+.frame-parent20 {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 52px;
+  font-size: var(--font-size-mini);
+  color: var(--color-silver);
+}
+.frame-parent16,
+.frame-parent18 {
+  align-self: stretch;
+  display: flex;
+  justify-content: flex-start;
+}
+.frame-parent18 {
+  flex: 1;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 103px;
+  font-size: var(--font-size-lgi);
+  color: var(--color-mediumslateblue);
+}
+.frame-parent16 {
+  flex-direction: row;
+  align-items: flex-start;
+  gap: 40px;
+}
+.page,
+.page-wrapper {
+  display: flex;
+  flex-direction: column;
+}
+.page {
+  align-self: stretch;
+  flex: 1;
+  background-color: var(--color-white);
+  padding: 96px 100px;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.page-wrapper {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 537px);
+  width: 1074px;
+  height: 782px;
+  align-items: center;
+  justify-content: center;
+}
+.loginpagechatapp-inner {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+}
+.loginpagechatapp {
+  position: relative;
+  width: 100%;
+  height: 782px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  text-align: left;
+  font-size: 63.62px;
+  color: var(--color-gray-300);
+  font-family: var(--font-lato);
+}
